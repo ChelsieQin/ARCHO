@@ -1,0 +1,53 @@
+#######################################
+# Syntax Coloring Map For 
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1) 
+#######################################
+ 
+Archo	KEYWORD1
+Archo_SPLM	KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2) 
+#######################################
+write8bit	KEYWORD2
+read8bit	KEYWORD2
+outVolume	KEYWORD2
+outFreq	KEYWORD2
+outMode	KEYWORD2
+begin	KEYWORD2
+getspl	KEYWORD2
+spl_switch 	KEYWORD2
+spl_filter 	KEYWORD2
+spl_filter_custom 	KEYWORD2
+spl_in_mute 	KEYWORD2
+#######################################
+# Constants (LITERAL1)  
+#######################################
+
+ON	LITERAL1
+OFF	LITERAL1
+
+LEVEL_FAST	LITERAL1
+LEVEL_SLOW	LITERAL1
+
+Z_WEIGHT	LITERAL1
+A_WEIGHT	LITERAL1
+C_WEIGHT	LITERAL1
+
+WHITE_NOISE	LITERAL1
+PINK_NOISE	LITERAL1
+LEVEL_FAST	LITERAL1
+LEVEL_SLOW	LITERAL1
+TONE	LITERAL1
+DB_0	LITERAL1
+DB_N3	LITERAL1
+DB_N6	LITERAL1
+DB_N9	LITERAL1
+DB_N12	LITERAL1
+DB_N15	LITERAL1
+DB_N18	LITERAL1
+DB_N20	LITERAL1
+DB_N21	LITERAL1
